@@ -1,6 +1,6 @@
 ### Goodbye!
 
-After 40+ years, my software development career has come to a close as of July 1, 2022. The repositories contained herein should therefore
+After 40+ years, my software development career will come to a close on July 1, 2022. The repositories contained herein should therefore
 be considered static. Do with them what you will!
 
 My personal aim in writing software has always been to elucidate practically a strange and wonderful idea of J.G. Bennett's:
