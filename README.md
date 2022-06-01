@@ -11,4 +11,5 @@ action that is really there ... We can hardly bring ourselves to see that there 
 
 If I have produced anything of value, all credit must be given to my determination to follow that idea to its limit. That I so often fell short is, of course, solely my responsibiity.
 
-Eric Mandel
+Eric Mandel<br>
+June 1, 2022
