@@ -13,4 +13,4 @@ It was A. N. Whitehead who supplied a key to understanding this process-driven v
 If I have produced anything of value, most of the credit must be given to the practical wisdom contained in these ideas. That I so often fell short is, of course, solely my responsibiity.
 
 Eric Mandel<br>
-July 1, 2023
+July 1, 2022
