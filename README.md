@@ -8,7 +8,7 @@ action that is really there ... We can hardly bring ourselves to see that there 
 
 It was A. N. Whitehead who supplied a key to understanding this process-driven view of the world:
 
-*Creativity achieves its supreme task  of transforming disjointed multiplicity, with its diversities in opposition, into ... unity, with its diversities in contrast*
+*... Creativity achieves its supreme task  of transforming disjointed multiplicity, with its diversities in opposition, into ... unity, with its diversities in contrast ...*
 
 If I have produced anything of value, most of the credit must be given to the practical wisdom contained in these ideas. That I so often fell short is, of course, solely my responsibiity.
 
