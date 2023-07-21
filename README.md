@@ -1,6 +1,6 @@
 ### I've written a lot of software in my day
 
-My personal aim in writing astrophysics software has always been to understand practically a strange and wonderful notion of J.G. Bennett:
+My personal aim in writing astrophysics software has been to understand practically a strange, wonderful notion of J.G. Bennett:
 
 *In our usual modes of thought we assume that being comes before doing or that being is somehow independent of action ...
 The truth is just the opposite. We are nothing at all, it is the action that makes us. Our being is an illusion; it is the
