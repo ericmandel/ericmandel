@@ -1,4 +1,4 @@
-### I've written a lot of software in my day
+### Goodbye to astrophysics!
 
 My personal aim in writing astrophysics software has been to understand practically a strange, wonderful notion of J.G. Bennett:
 
@@ -6,7 +6,7 @@ My personal aim in writing astrophysics software has been to understand practica
 The truth is just the opposite. We are nothing at all, it is the action that makes us. Our being is an illusion; it is the
 action that is really there ... We can hardly bring ourselves to see that there are doings who be things ...*
 
-It was A. N. Whitehead who supplied a key to understanding our role in this process-driven world:
+And it was A. N. Whitehead who supplied a key to understanding our creative role in a process-centered world:
 
 *... Creativity achieves its supreme task  of transforming disjointed multiplicity, with its diversities in opposition, into ... unity, with its diversities in contrast ...*
 
