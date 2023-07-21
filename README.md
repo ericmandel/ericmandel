@@ -6,7 +6,7 @@ My personal aim in writing astrophysics software has been to understand practica
 The truth is just the opposite. We are nothing at all, it is the action that makes us. Our being is an illusion; it is the
 action that is really there ... We can hardly bring ourselves to see that there are doings who be things ...*
 
-It was A. N. Whitehead who supplied a key to understanding this process-driven view of the world:
+It was A. N. Whitehead who supplied a key to understanding our role in this process-driven world:
 
 *... Creativity achieves its supreme task  of transforming disjointed multiplicity, with its diversities in opposition, into ... unity, with its diversities in contrast ...*
 
