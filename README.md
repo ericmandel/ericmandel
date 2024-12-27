@@ -10,7 +10,7 @@ And it was A. N. Whitehead who supplied a key to understanding our creative role
 
 *... Creativity achieves its supreme task  of transforming disjointed multiplicity, with its diversities in opposition, into ... unity, with its diversities in contrast ...*
 
-If I have produced anything of value, most of the credit must be given to the practical wisdom contained in these ideas. That I so often fell short is, of course, solely my responsibiity.
+If I produced anything of value, most of the credit must be given to the practical wisdom contained in these ideas. That I so often fell short is, of course, solely my responsibiity.
 
 Eric Mandel<br>
 1 July 2022
